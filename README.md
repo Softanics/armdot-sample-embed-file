@@ -1,3 +1,6 @@
+Read more about how to embed files into .Net assemblies with the help of ArmDot:
+https://www.armdot.com/docs/embedded-files/embedded-files.html
+
 # ArmDot sample: embed files
 
 This sample shows how ArmDot embeds files into an output assembly.
