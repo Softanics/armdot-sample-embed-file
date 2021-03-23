@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "armdot-sample-embed-file", "armdot-sample-embed-file.csproj", "{744E99F2-6864-48AD-916F-37025DDE920B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{744E99F2-6864-48AD-916F-37025DDE920B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{744E99F2-6864-48AD-916F-37025DDE920B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{744E99F2-6864-48AD-916F-37025DDE920B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{744E99F2-6864-48AD-916F-37025DDE920B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0061C83-D677-4EFD-B572-887F9A3F07E0}
+	EndGlobalSection
+EndGlobal
